@@ -2,6 +2,7 @@
 submissions for the kaggle house price dataset
 
 applying techniques from coursera and some machine learning texts, mostly familiarizing myself with submitting things on kaggle
+
 need to do: 
 improve feature engineering techniques 
 apply some PCA to a more complicated dataset
